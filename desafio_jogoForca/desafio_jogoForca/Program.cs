@@ -18,10 +18,8 @@ namespace desafio_jogoForca
 
             Random rndNum = new Random();
             int wordLength = listWords.Count;
-            // listWord.Count me fornece o valor inteiro do length.
 
             string rndWord = listWords[rndNum.Next(0, wordLength)];
-            // Gerando um numero aleatorio entre 0 e 12. O worldLength é 13, mas o metodo exclui o ultimo, por isso de 0 a 12.
 
             List<char> word = new List<char>();
             List<string> hiddenWord = new List<string>();
