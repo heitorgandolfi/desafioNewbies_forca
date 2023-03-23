@@ -1,0 +1,8 @@
+C:\Users\HeitorGandolfiCardil\Desktop\desafio_jogoForca\desafio_jogoForca\bin\Debug\desafio_jogoForca.exe.config
+C:\Users\HeitorGandolfiCardil\Desktop\desafio_jogoForca\desafio_jogoForca\bin\Debug\desafio_jogoForca.exe
+C:\Users\HeitorGandolfiCardil\Desktop\desafio_jogoForca\desafio_jogoForca\bin\Debug\desafio_jogoForca.pdb
+C:\Users\HeitorGandolfiCardil\Desktop\desafio_jogoForca\desafio_jogoForca\obj\Debug\desafio_jogoForca.csproj.AssemblyReference.cache
+C:\Users\HeitorGandolfiCardil\Desktop\desafio_jogoForca\desafio_jogoForca\obj\Debug\desafio_jogoForca.csproj.SuggestedBindingRedirects.cache
+C:\Users\HeitorGandolfiCardil\Desktop\desafio_jogoForca\desafio_jogoForca\obj\Debug\desafio_jogoForca.csproj.CoreCompileInputs.cache
+C:\Users\HeitorGandolfiCardil\Desktop\desafio_jogoForca\desafio_jogoForca\obj\Debug\desafio_jogoForca.exe
+C:\Users\HeitorGandolfiCardil\Desktop\desafio_jogoForca\desafio_jogoForca\obj\Debug\desafio_jogoForca.pdb
