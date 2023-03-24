@@ -34,7 +34,7 @@ namespace desafio_jogoForca
             {
                 Console.WriteLine($"Adivinhe qual é a palavra a seguir, digitando letra por letra: \n {string.Join("", hiddenWord)}");
                 string resUser = Console.ReadLine().ToLower();
-                if (resUser.Length > 1)
+                if (resUser.Length != 1)
                 {
                     Console.WriteLine("Por favor, digite uma única letra por vez.");
                 }
